@@ -1,0 +1,3 @@
+# Cross Synthesis of Speech Sound
+
+Cross Synthesis is a technique of super-imposing the spectral envelope of one sound over the flattened spectrum of another sound. The 'main.m' file implements the Cross Synthesis of the 'modulator22.wav' over the three different carrier sounds, 'carrier11.wav', 'carrier22.wav' and 'carrier33.wav' and outputs them to 'output1.wav', 'output2.wav' and 'output3.wav' respectively.
